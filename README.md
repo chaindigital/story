@@ -6,3 +6,31 @@ Official documentation:
 >- [Validator setup instructions](https://docs.story.foundation/introduction)
 
 ---
+
+##  Endpoints 
+
+###  💎 Mainnet
+
+####  Endpoints
+-  **API**: [`https://story.api.mainnets.chaindigital.tech`](https://celestia.api.mainnets.chaindigital.io/)  
+-  **RPC**: [`https://celestia.rpc.mainnets.chaindigital.io/`](https://celestia.rpc.mainnets.chaindigital.io/)
+  
+-  **JSON-RPC**:  [`https://story.evm.mainnets.chaindigital.tech:443`](https://story.evm.mainnets.chaindigital.tech:443)
+
+####  AddrBook (updated hourly)
+```bash
+wget -O $HOME/.story/story/config/addrbook.json https://mainnets.chaindigital.tech/story/addrbook.json
+```
+
+###  💧 Testnet
+
+####  Endpoints
+-  **API**: [`https://story.api.testnets.chaindigital.tech/`](https://story.api.testnets.chaindigital.tech/)  
+-  **RPC**: [`https://story.rpc.testnets.chaindigital.tech/`](https://story.rpc.testnets.chaindigital.tech/)
+  
+-  **JSON-RPC**: [`https://story.evm.testnets.chaindigital.tech:443`](https://story.evm.testnets.chaindigital.tech:443)  
+
+####  AddrBook (updated hourly)
+```bash
+wget -O $HOME/.story/story/config/addrbook.json https://testnets.chaindigital.tech/story/addrbook.json
+```
