@@ -12,8 +12,8 @@ Official documentation:
 ###  💎 Mainnet
 
 ####  Endpoints
--  **API**: [`https://story.api.mainnets.chaindigital.tech`](https://celestia.api.mainnets.chaindigital.io/)  
--  **RPC**: [`https://celestia.rpc.mainnets.chaindigital.io/`](https://celestia.rpc.mainnets.chaindigital.io/)
+-  **API**: [`https://story.api.mainnets.chaindigital.tech`](https://story.api.mainnets.chaindigital.io/)  
+-  **RPC**: [`https://story.rpc.mainnets.chaindigital.io/`](https://story.rpc.mainnets.chaindigital.io/)
   
 -  **JSON-RPC**:  [`https://story.evm.mainnets.chaindigital.tech:443`](https://story.evm.mainnets.chaindigital.tech:443)
 
