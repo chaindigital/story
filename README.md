@@ -34,3 +34,29 @@ wget -O $HOME/.story/story/config/addrbook.json https://mainnets.chaindigital.te
 ```bash
 wget -O $HOME/.story/story/config/addrbook.json https://testnets.chaindigital.tech/story/addrbook.json
 ```
+
+---
+
+## 🛠 Installation Scripts
+
+### 📋 Upgrade Mainnet
+
+```bash
+source <(curl -s https://raw.githubusercontent.com/chaindigital/story/main/upgrademainnet.sh)
+```
+
+### 📋 Upgrade Testnet
+```bash
+source <(curl -s https://raw.githubusercontent.com/chaindigital/story/main/upgradetestnet.sh)
+```
+
+### 🛠️ Install Mainnet
+
+```bash
+source <(curl -s https://raw.githubusercontent.com/chaindigital/story/main/installmainnet.sh)
+```
+
+### 🛠️ Install Testnet
+```bash
+source <(curl -s https://raw.githubusercontent.com/chaindigital/story/main/installtestnet.sh)
+```
